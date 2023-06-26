@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: red;
+}
+#main {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 600px;
+    justify-content: center;
+    padding-top: 100px;
+    padding-bottom: 100%;
+}
+
+#main h1 {
+    color: white;
+}
+
+#main h2 {
+    color: white;
+}
